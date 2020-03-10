@@ -1,5 +1,5 @@
 # Information-Management-System
-* Featured list *
+* Featured list 
 1. Intructor can create account
 2. Instructor can change password
 3. Instructor can Log In
